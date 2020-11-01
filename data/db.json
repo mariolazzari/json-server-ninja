@@ -2,20 +2,20 @@
   "posts": [
     {
       "id": 1,
-      "ttile": "Welcome to the new Blog",
+      "title": "Welcome to the new Blog",
       "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae, impedit nulla quaerat, nesciunt placeat repellendus ad minima fugit quo, enim iusto? Perspiciatis, reprehenderit, corporis ea nihil placeat dolores repellat similique magnam quas quo ab exercitationem atque minima rerum ipsum quis numquam dolor sunt. Veritatis iure rerum et dolorem doloribus repudiandae dignissimos recusandae rem atque esse repellat sed, veniam nemo id suscipit facere! Officiis, sapiente non! In minima illo, necessitatibus reiciendis expedita quod et at nihil unde molestias, aliquam culpa quibusdam iste dolores esse! Ducimus odit nam sequi quod alias architecto reiciendis incidunt ad debitis id provident, delectus, deserunt dolor illo.",
       "likes": 123
     },
     {
       "id": 2,
-      "ttile": "Second post",
+      "title": "Second post",
       "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae, impedit nulla quaerat, nesciunt placeat repellendus ad minima fugit quo, enim iusto? Perspiciatis, reprehenderit, corporis ea nihil placeat dolores repellat similique magnam quas quo ab exercitationem atque minima rerum ipsum quis numquam dolor sunt. Veritatis iure rerum et dolorem doloribus repudiandae dignissimos recusandae rem atque esse repellat sed, veniam nemo id suscipit facere! Officiis, sapiente non! In minima illo, necessitatibus reiciendis expedita quod et at nihil unde molestias, aliquam culpa quibusdam iste dolores esse! Ducimus odit nam sequi quod alias architecto reiciendis incidunt ad debitis id provident, delectus, deserunt dolor illo.",
       "likes": 23
     },
     {
       "id": 3,
-      "ttile": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae, impedit nulla quaerat, nesciunt placeat repellendus ad minima fugit quo, enim iusto? Perspiciatis, reprehenderit, corporis ea nihil placeat dolores repellat similique magnam quas quo ab exercitationem atque minima rerum ipsum quis numquam dolor sunt. Veritatis iure rerum et dolorem doloribus repudiandae dignissimos recusandae rem atque esse repellat sed, veniam nemo id suscipit facere! Officiis, sapiente non! In minima illo, necessitatibus reiciendis expedita quod et at nihil unde molestias, aliquam culpa quibusdam iste dolores esse! Ducimus odit nam sequi quod alias architecto reiciendis incidunt ad debitis id provident, delectus, deserunt dolor illo.",
-      "body": "x",
+      "title": "Third post",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae, impedit nulla quaerat, nesciunt placeat repellendus ad minima fugit quo, enim iusto? Perspiciatis, reprehenderit, corporis ea nihil placeat dolores repellat similique magnam quas quo ab exercitationem atque minima rerum ipsum quis numquam dolor sunt. Veritatis iure rerum et dolorem doloribus repudiandae dignissimos recusandae rem atque esse repellat sed, veniam nemo id suscipit facere! Officiis, sapiente non! In minima illo, necessitatibus reiciendis expedita quod et at nihil unde molestias, aliquam culpa quibusdam iste dolores esse! Ducimus odit nam sequi quod alias architecto reiciendis incidunt ad debitis id provident, delectus, deserunt dolor illo.",
       "likes": 12
     }
   ],

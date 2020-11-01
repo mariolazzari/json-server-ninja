@@ -11,7 +11,7 @@ const renderPosts = async term => {
 
   const res = await fetch(uri);
   const posts = await res.json();
-  //console.log(posts);
+  console.log(posts);
 
   let template = "";
   posts.forEach(post => {
@@ -29,9 +29,11 @@ const renderPosts = async term => {
 };
 
 // search
+/*
 searchForm.addEventListener("submit", async e => {
   e.preventDefault();
   renderPosts(searchForm.term.value.trim());
 });
+*/
 
 window.addEventListener("DOMContentLoaded", () => renderPosts());
